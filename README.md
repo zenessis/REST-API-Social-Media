@@ -18,10 +18,10 @@ Follow these simple steps to get the Social Media REST API up and running on you
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/social-media-api.git
+git clone https://github.com/zenessis/REST-API-Social-Media.git
 ```
 ```bash
-cd social-media-api
+cd REST-API-Social-Media
 ```
 ```bash
 npm install
