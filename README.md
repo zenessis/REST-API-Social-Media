@@ -20,15 +20,15 @@ Follow these simple steps to get the Social Media REST API up and running on you
    ```bash
    git clone https://github.com/your-username/social-media-api.git
    ```
-```bash
+   ```bash
 cd social-media-api
  ```
-```bash
+ ```bash
 npm install
-```
-```bash
+ ```
+ ```bash
 npm start
-```
+ ```
 
 *The API server will now be running at http://localhost:3000.*
 
